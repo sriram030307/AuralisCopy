@@ -1,0 +1,19 @@
+{
+  "appId": "com.auralis.app",
+  "appName": "Auralis Safety",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "Geolocation": {
+      "permissions": ["location"]
+    },
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    },
+    "Haptics": {},
+    "LocalNotifications": {}
+  }
+}

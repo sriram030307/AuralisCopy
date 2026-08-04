@@ -1,0 +1,12 @@
+{
+  "name": "Auralis",
+  "description": "Auralis - Premium AI-Powered Personal Safety Platform with live GPS, India emergency numbers, Journey Protection, Guardian Network, AI Companion, and Fake Call generator.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
